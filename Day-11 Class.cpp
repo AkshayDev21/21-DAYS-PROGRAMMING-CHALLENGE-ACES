@@ -9,9 +9,7 @@ class Student{
 		id = i;
 		name = n;
 	}
-		
-	
-		
+			
 	void get_details(){
 		cout<<"id :"<<id;
 		cout<<"\nname :"<<name;
