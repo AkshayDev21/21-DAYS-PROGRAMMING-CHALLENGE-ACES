@@ -31,3 +31,4 @@ int main(){
 	s1.put_details(s_id, s_name);
 	s1.get_details();
 }
+
