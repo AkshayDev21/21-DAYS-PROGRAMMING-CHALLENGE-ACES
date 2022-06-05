@@ -11,3 +11,4 @@ int main(){
 	cout<<"Add double :"<<add(15.6,20.5);
 	return 0;
 }
+
